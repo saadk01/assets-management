@@ -1,7 +1,9 @@
 /==== About ====/
-This is a .NET environment program developed in C# with persistent data storage through files. Microsoft (R) Visual Studio Community edition is used to develop it.
+
+Originally developed for a course taken in Apr 2016, this is a .NET environment program developed in C# with persistent data storage through files. Microsoft (R) Visual Studio Community edition is used to develop it.
 
 /==== Program Description & Requirements ====/
+
 This is an mdi multi-form application to keep track of assets assigned to each employee.  The company needs to be able to manage assets such as desktop and laptop computers, IP desk phones and cell phones assigned to employees. 
 
 1. The main entities that must be part of the system include Employee, Department, Vendor, Asset, and Category of asset. 
