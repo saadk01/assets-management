@@ -1,0 +1,11 @@
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Repositories\obj\Debug\CPRG254.Assets.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Repositories\bin\Debug\CPRG254.Assets.Repositories.dll
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Repositories\bin\Debug\CPRG254.Assets.Repositories.pdb
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Repositories\bin\Debug\CPRG254.Assets.Domain.dll
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Repositories\bin\Debug\CPRG254.Assets.Domain.pdb
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Repositories\obj\Debug\CPRG254.Assets.Repositories.dll
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Repositories\obj\Debug\CPRG254.Assets.Repositories.pdb
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Repositories\bin\Debug\CPRG254.Assets.Data.dll
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Repositories\bin\Debug\CPRG254.Assets.Data.pdb
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Repositories\bin\Debug\EntityFramework.xml

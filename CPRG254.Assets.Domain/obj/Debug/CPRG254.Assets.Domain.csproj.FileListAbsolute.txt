@@ -1,0 +1,5 @@
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Domain\bin\Debug\CPRG254.Assets.Domain.dll
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Domain\bin\Debug\CPRG254.Assets.Domain.pdb
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Domain\obj\Debug\CPRG254.Assets.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Domain\obj\Debug\CPRG254.Assets.Domain.dll
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Domain\obj\Debug\CPRG254.Assets.Domain.pdb

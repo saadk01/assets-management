@@ -1,0 +1,14 @@
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Data\bin\Debug\CPRG254.Assets.Data.dll
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Data\bin\Debug\CPRG254.Assets.Data.pdb
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Data\obj\Debug\CPRG254.Assets.Data.dll
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Data\obj\Debug\CPRG254.Assets.Data.pdb
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Data\bin\Debug\CPRG254.Assets.Data.dll.config
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Data\bin\Debug\CPRG254.Assets.Domain.dll
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Data\bin\Debug\EntityFramework.dll
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Data\bin\Debug\CPRG254.Assets.Domain.pdb
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Data\bin\Debug\EntityFramework.xml
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Data\obj\Debug\CPRG254.Assets.Data.csprojResolveAssemblyReference.cache
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Data\obj\Debug\CPRG254.Assets.Data.Migrations.Initial.resources
+C:\Users\Saad\Documents\CPRG-254\FinalAsgn\CPRG254.Assets\CPRG254.Assets.Data\obj\Debug\CPRG254.Assets.Data.csproj.GenerateResource.Cache
