@@ -1,6 +1,6 @@
 /==== About ====/
 
-Originally developed for a course taken in Apr 2016, this is a .NET environment program developed in C# with persistent data storage through files. Microsoft (R) Visual Studio Community edition is used to develop it.
+Originally developed for a course taken in Apr 2016, this is a .NET environment program developed in C# with persistent data storage via Microssoft (R) SQL Server. Microsoft Visual Studio Community edition is used to develop it.
 
 /==== Program Description & Requirements ====/
 
